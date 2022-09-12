@@ -3,7 +3,7 @@ let position = 1;
 let word_length = 0;
 let ans_array = [];
 let answer_filled = "";
-let answer_word = "right";
+let answer_word = "world";
 let position_checker;
 let keyboard = document.querySelectorAll(".key");
 let keyboard_key;
